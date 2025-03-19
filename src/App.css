@@ -1,0 +1,30 @@
+body{
+    background: deeppink;
+    color: #fff;
+    font-family: 'Jost';
+}
+
+.App{
+    margin-top: 200px;
+    align-items: center;
+    text-align: center;
+    font-weight: 600;
+}
+.fa-paw {
+    color: deeppink;
+}
+
+.btn{
+    cursor: pointer;
+    border: 1px solid #fff;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    padding: 8px;
+    font-weight: 600;
+}
+
+.popup-hint{
+    margin-top: 20px;
+    font-weight: 500;
+    color: antiquewhite;
+}
